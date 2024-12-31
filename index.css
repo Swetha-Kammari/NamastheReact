@@ -38,6 +38,7 @@
 }
 .res-card{
   padding:10px 20px;
+  margin:0;
 }
 .res-card:hover{
   border:1px solid #000;
