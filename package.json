@@ -1,0 +1,33 @@
+{
+  "name": "namasthereact-main",
+  "version": "1.0.0",
+  "description": "This is Namasthe React by Akshay Saini",
+  
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swetha-Kammari/NamastheReact.git"
+  },
+  "keywords": [],
+  "author": "swetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swetha-Kammari/NamastheReact/issues"
+  },
+  "homepage": "https://github.com/Swetha-Kammari/NamastheReact#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
